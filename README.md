@@ -1,2 +1,3 @@
 # fetcher-mapper-441866
-Side project
+
+Quick prototype for an idea.
